@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Italo Albuquerque</h1>
+<h1 align="center">Hi 🤘👻, I'm Italo Albuquerque</h1>
 <h3 align="center">Graduate in physics at Instituto Federal de Educação do Ceará.</h3>
 
 - 🔭 I’m currently working on **physics simulation software**
